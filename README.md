@@ -1,4 +1,8 @@
-# PDS Linux Kernel Device Driver
+# Cisco-HDLC
+
+Linux kernel module for Cisco HDLC encapsulation
+
+## PDS Linux Kernel Device Driver
 
 PDS Linux Kernel Device Driver is a driver for E1 devices connected via
 Ethernet. Currently, it is assumed that only one E1 device is connected to one
